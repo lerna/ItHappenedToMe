@@ -8,8 +8,6 @@ http://ithappenedtome.co
 
 Project details http://carrietech.github.io/
 
-Follow the conversation #ih2m
-
 Team Members:
 
     Colette Ellis - @Coach_Colette
