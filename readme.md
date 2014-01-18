@@ -7,7 +7,7 @@ Women & Girls' Empowerment project "It Happened To Me"
 http://ithappenedtome.co
 
 Project details http://carrietech.github.io/
-#ih2m
+Follow the conversation #ih2m
 
 Team Members:
 
