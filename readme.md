@@ -3,7 +3,7 @@ Read.me
 {Coder} Day of Service @CoderDay Powered by {Code} Montage @CodeMantage
 January 18, 2013
 
-Women & Girls' Empowerment project It Happened To Me
+Women & Girls' Empowerment project "It Happened To Me"
 http://ithappenedtome.co
 
 Project details http://carrietech.github.io/
