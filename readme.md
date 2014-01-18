@@ -20,7 +20,7 @@ Team Members:
     Rebecca K
 
 Mission:
-To provide a platform for women and girls tell their stories.
+To provide a platform for women and girls to tell their stories.
 
 Notes:
 Browse see recent posts or browse by tag
