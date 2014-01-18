@@ -19,4 +19,4 @@ Team Members:
     Rachel Susser
     Voltaire Davis - @LiveYourLegends
     Lerna Ekmekcioglu - @lerna_
-    Rebecca Krathwohl
+    Rebecca K
