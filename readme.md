@@ -20,11 +20,10 @@ Team Members:
     Rebecca K
 
 Mission:
-To provide a platform that allows women and girls tell their stories.
+To provide a platform for women and girls tell their stories.
 
 Notes:
-Browse or Login
-Browse: see recent posts or browse by tag
+Browse see recent posts or browse by tag
 Login: with existing account
 Register: create new account and user name (authentication via Facebook, Twitter, email)
 Create your own story (three panels) and (eventually) tag your posts according to categories
